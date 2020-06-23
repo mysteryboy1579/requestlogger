@@ -1,7 +1,7 @@
 @aaa
 Feature: xxxxxxxxxax
 
-  @ORPHAN
+  @AUTO-3 @OPEN
   Scenario: zzzzzzzz
 
   @ORPHAN
